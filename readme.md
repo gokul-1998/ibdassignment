@@ -17,7 +17,7 @@ bin/kafka-server-start.sh config/server.properties
 ```
 
 ```
-wget https://downloads.apache.org/kafka/3.6.1/kafka_2.13-3.6.1.tgz
+wget https://archive.apache.org/dist/kafka/3.6.1/kafka_2.13-3.6.1.tgz
 tar -xvzf kafka_2.13-3.6.1.tgz
 cd kafka_2.13-3.6.1
 ```
@@ -44,7 +44,7 @@ Download Kafka from:
 Or use `wget`:
 
 ```bash
-wget https://downloads.apache.org/kafka/3.6.1/kafka_2.13-3.6.1.tgz
+wget https://archive.apache.org/dist/kafka/3.6.1/kafka_2.13-3.6.1.tgz
 tar -xvzf kafka_2.13-3.6.1.tgz
 cd kafka_2.13-3.6.1
 ```
